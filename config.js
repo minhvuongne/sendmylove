@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người nhưng mà nụ cười của em là đẹp nhất, thế nên là, hãy để anh giữ nụ cười của em trên môi <3',
     btnReply: 'Okiiiii <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <3',
-    mess: 'Yêu em nhiều nhiều 😘😘',
+    mess: 'Luv u 😘😘',
     messDesc: 'Hết dịch đi chơi nhé <3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/Vuong0903two' 
