@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Okiiiii <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <3',
     mess: 'Luv u 😘😘',
-    messDesc: 'Hết dịch đi chơi nhé <3.',
+    messDesc: 'Khi nào xuống HN đi chơi nhé <3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/Vuong0903two' 
 }
