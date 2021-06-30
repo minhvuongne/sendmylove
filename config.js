@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Đúng rồi đó',
     btnNo: 'Không',
-    question:'Trên thế giới hơn 7 tỉ người nhưng mà nụ cười của em là đẹp nhất, thế nên là, hãy để anh giữ nụ cười của em trên môi <3',
+    question:'Trên thế giới hơn 7 tỉ người nhưng mà nụ cười của Lê Hằng Giang là đẹp nhất, thế nên là, hãy để anh giữ nụ cười của em trên môi <3',
     btnReply: 'Okiiiii <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <3',
     mess: 'Luv u 😘😘',
